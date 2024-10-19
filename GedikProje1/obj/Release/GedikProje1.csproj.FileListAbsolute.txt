@@ -1,0 +1,7 @@
+C:\Users\melih\source\repos\GedikProje1\obj\Release\GedikProje1.csproj.AssemblyReference.cache
+C:\Users\melih\source\repos\GedikProje1\obj\Release\GedikProje1.csproj.CoreCompileInputs.cache
+C:\Users\melih\source\repos\GedikProje1\bin\Release\GedikProje1.exe.config
+C:\Users\melih\source\repos\GedikProje1\bin\Release\GedikProje1.exe
+C:\Users\melih\source\repos\GedikProje1\bin\Release\GedikProje1.pdb
+C:\Users\melih\source\repos\GedikProje1\obj\Release\GedikProje1.exe
+C:\Users\melih\source\repos\GedikProje1\obj\Release\GedikProje1.pdb
