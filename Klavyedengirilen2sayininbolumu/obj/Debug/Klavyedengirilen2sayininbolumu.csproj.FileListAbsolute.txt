@@ -1,0 +1,7 @@
+C:\Users\melih\source\repos\Klavyedengirilen2sayininbolumu\bin\Debug\Klavyedengirilen2sayininbolumu.exe.config
+C:\Users\melih\source\repos\Klavyedengirilen2sayininbolumu\bin\Debug\Klavyedengirilen2sayininbolumu.exe
+C:\Users\melih\source\repos\Klavyedengirilen2sayininbolumu\bin\Debug\Klavyedengirilen2sayininbolumu.pdb
+C:\Users\melih\source\repos\Klavyedengirilen2sayininbolumu\obj\Debug\Klavyedengirilen2sayininbolumu.csproj.AssemblyReference.cache
+C:\Users\melih\source\repos\Klavyedengirilen2sayininbolumu\obj\Debug\Klavyedengirilen2sayininbolumu.csproj.CoreCompileInputs.cache
+C:\Users\melih\source\repos\Klavyedengirilen2sayininbolumu\obj\Debug\Klavyedengirilen2sayininbolumu.exe
+C:\Users\melih\source\repos\Klavyedengirilen2sayininbolumu\obj\Debug\Klavyedengirilen2sayininbolumu.pdb

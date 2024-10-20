@@ -1,0 +1,7 @@
+C:\Users\melih\source\repos\10sayisinin3ebolumundenkalan\bin\Debug\10sayisinin3ebolumundenkalan.exe.config
+C:\Users\melih\source\repos\10sayisinin3ebolumundenkalan\bin\Debug\10sayisinin3ebolumundenkalan.exe
+C:\Users\melih\source\repos\10sayisinin3ebolumundenkalan\bin\Debug\10sayisinin3ebolumundenkalan.pdb
+C:\Users\melih\source\repos\10sayisinin3ebolumundenkalan\obj\Debug\10sayisinin3ebolumundenkalan.csproj.AssemblyReference.cache
+C:\Users\melih\source\repos\10sayisinin3ebolumundenkalan\obj\Debug\10sayisinin3ebolumundenkalan.csproj.CoreCompileInputs.cache
+C:\Users\melih\source\repos\10sayisinin3ebolumundenkalan\obj\Debug\10sayisinin3ebolumundenkalan.exe
+C:\Users\melih\source\repos\10sayisinin3ebolumundenkalan\obj\Debug\10sayisinin3ebolumundenkalan.pdb

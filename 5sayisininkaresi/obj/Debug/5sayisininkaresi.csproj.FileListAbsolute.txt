@@ -1,0 +1,7 @@
+C:\Users\melih\source\repos\5sayisininkaresi\bin\Debug\5sayisininkaresi.exe.config
+C:\Users\melih\source\repos\5sayisininkaresi\bin\Debug\5sayisininkaresi.exe
+C:\Users\melih\source\repos\5sayisininkaresi\bin\Debug\5sayisininkaresi.pdb
+C:\Users\melih\source\repos\5sayisininkaresi\obj\Debug\5sayisininkaresi.csproj.AssemblyReference.cache
+C:\Users\melih\source\repos\5sayisininkaresi\obj\Debug\5sayisininkaresi.csproj.CoreCompileInputs.cache
+C:\Users\melih\source\repos\5sayisininkaresi\obj\Debug\5sayisininkaresi.exe
+C:\Users\melih\source\repos\5sayisininkaresi\obj\Debug\5sayisininkaresi.pdb

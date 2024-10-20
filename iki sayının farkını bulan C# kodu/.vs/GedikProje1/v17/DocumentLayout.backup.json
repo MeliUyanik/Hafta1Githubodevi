@@ -1,10 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\melih\\source\\repos\\GedikProje1\\",
+  "WorkspaceRootPath": "C:\\Users\\melih\\OneDrive\\Masa\u00FCst\u00FC\\Hafta1Githubodevi\\iki say\u0131n\u0131n fark\u0131n\u0131 bulan C# kodu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53429BE6-9A0C-48B5-839C-D70959F43990}|GedikProje1.csproj|c:\\users\\melih\\source\\repos\\gedikproje1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53429BE6-9A0C-48B5-839C-D70959F43990}|GedikProje1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74DD3DF0-CF59-427A-A2F5-E8DB2EA745B0}|..\\5 say\u0131s\u0131n\u0131n karesini bulan C# program\u0131\\5 say\u0131s\u0131n\u0131n karesini bulan C# kodu.csproj|c:\\users\\melih\\onedrive\\masa\u00FCst\u00FC\\hafta1githubodevi\\5 say\u0131s\u0131n\u0131n karesini bulan c# program\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53429BE6-9A0C-48B5-839C-D70959F43990}|iki say\u0131n\u0131n fark\u0131n\u0131 bulan C# kodu.csproj|c:\\users\\melih\\onedrive\\masa\u00FCst\u00FC\\hafta1githubodevi\\iki say\u0131n\u0131n fark\u0131n\u0131 bulan c# kodu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53429BE6-9A0C-48B5-839C-D70959F43990}|iki say\u0131n\u0131n fark\u0131n\u0131 bulan C# kodu.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +23,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\GedikProje1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\OneDrive\\Masa\u00FCst\u00FC\\Hafta1Githubodevi\\5 say\u0131s\u0131n\u0131n karesini bulan C# program\u0131\\Program.cs",
+              "RelativeDocumentMoniker": "..\\5 say\u0131s\u0131n\u0131n karesini bulan C# program\u0131\\Program.cs",
+              "ToolTip": "C:\\Users\\melih\\OneDrive\\Masa\u00FCst\u00FC\\Hafta1Githubodevi\\5 say\u0131s\u0131n\u0131n karesini bulan C# program\u0131\\Program.cs",
+              "RelativeToolTip": "..\\5 say\u0131s\u0131n\u0131n karesini bulan C# program\u0131\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:05:22.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\OneDrive\\Masa\u00FCst\u00FC\\Hafta1Githubodevi\\iki say\u0131n\u0131n fark\u0131n\u0131 bulan C# kodu\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\melih\\source\\repos\\GedikProje1\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\melih\\OneDrive\\Masa\u00FCst\u00FC\\Hafta1Githubodevi\\iki say\u0131n\u0131n fark\u0131n\u0131 bulan C# kodu\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T14:45:47.479Z",
               "EditorCaption": ""

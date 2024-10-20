@@ -1,0 +1,7 @@
+C:\Users\melih\OneDrive\Masaüstü\Hafta1Githubodevi\iki sayının farkını bulan C# kodu\bin\Debug\GedikProje1.exe.config
+C:\Users\melih\OneDrive\Masaüstü\Hafta1Githubodevi\iki sayının farkını bulan C# kodu\bin\Debug\GedikProje1.exe
+C:\Users\melih\OneDrive\Masaüstü\Hafta1Githubodevi\iki sayının farkını bulan C# kodu\bin\Debug\GedikProje1.pdb
+C:\Users\melih\OneDrive\Masaüstü\Hafta1Githubodevi\iki sayının farkını bulan C# kodu\obj\Debug\iki sayının farkını bulan C# kodu.csproj.AssemblyReference.cache
+C:\Users\melih\OneDrive\Masaüstü\Hafta1Githubodevi\iki sayının farkını bulan C# kodu\obj\Debug\iki sayının farkını bulan C# kodu.csproj.CoreCompileInputs.cache
+C:\Users\melih\OneDrive\Masaüstü\Hafta1Githubodevi\iki sayının farkını bulan C# kodu\obj\Debug\GedikProje1.exe
+C:\Users\melih\OneDrive\Masaüstü\Hafta1Githubodevi\iki sayının farkını bulan C# kodu\obj\Debug\GedikProje1.pdb

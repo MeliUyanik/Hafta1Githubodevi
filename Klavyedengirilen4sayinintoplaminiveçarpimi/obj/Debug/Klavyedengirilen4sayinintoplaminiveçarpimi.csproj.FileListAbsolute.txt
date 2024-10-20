@@ -1,0 +1,7 @@
+C:\Users\melih\source\repos\Klavyedengirilen4sayinintoplaminiveçarpimi\obj\Debug\Klavyedengirilen4sayinintoplaminiveçarpimi.csproj.AssemblyReference.cache
+C:\Users\melih\source\repos\Klavyedengirilen4sayinintoplaminiveçarpimi\obj\Debug\Klavyedengirilen4sayinintoplaminiveçarpimi.csproj.CoreCompileInputs.cache
+C:\Users\melih\source\repos\Klavyedengirilen4sayinintoplaminiveçarpimi\bin\Debug\Klavyedengirilen4sayinintoplaminiveçarpimi.exe.config
+C:\Users\melih\source\repos\Klavyedengirilen4sayinintoplaminiveçarpimi\bin\Debug\Klavyedengirilen4sayinintoplaminiveçarpimi.exe
+C:\Users\melih\source\repos\Klavyedengirilen4sayinintoplaminiveçarpimi\bin\Debug\Klavyedengirilen4sayinintoplaminiveçarpimi.pdb
+C:\Users\melih\source\repos\Klavyedengirilen4sayinintoplaminiveçarpimi\obj\Debug\Klavyedengirilen4sayinintoplaminiveçarpimi.exe
+C:\Users\melih\source\repos\Klavyedengirilen4sayinintoplaminiveçarpimi\obj\Debug\Klavyedengirilen4sayinintoplaminiveçarpimi.pdb
